@@ -1,0 +1,70 @@
+Not equal grading requirement, check it.
+
+Aim for max.
+
+GRE:
+
+	sections:
+
+	I. Writing:
+		not attempted != 0
+		not attempted = null
+		max: 6
+		ave: 3.5
+
+		Req: Vocab+Grammar=error free, idea is the next step.
+			do not use any new word or grammar pattern until you understand it successfully.
+
+		A. Issue
+			30 min, cannot be saved
+			400 +- 20 words (approximately)
+		B. Argument
+			Analyze a paragraph
+			30 min, cannot be saved
+			400 +- 20 words (approximately)
+
+	II. Verbal
+		130-170
+
+		They have pattern recognition, you cannot choose all As.
+
+		A. V1
+			20 Qs, 30 min, cannot be saved
+			10 vocabulary
+			10 reading comprehension
+
+		B. V2
+			20 Qs, 30 min, cannot ve saved
+			10 vocabulary
+			10 reading comprehension
+
+		Vocabulary Q types: 20 Qs
+			T1: 1 blank, 5 alternatives
+			T2: 2 blanks, 3 alternatives for each, AND gate
+			T3: 3 blanks, 3 alternatives for each, AND gate
+			T4: 1 blank, 2 answers from some alts, AND gate, easiest part
+
+			14-16 Qs: T1, T2, T3
+			4-6 Qs: T4
+
+		Reading comprehension: 20 Qs
+			1 Long passage: 4 Qs, timing, answer at the end
+			6 Short passages: 1-2 Qs for each: totally 12 Qs
+			4 Very short passages (2-3 lines): verbal reasoning: 4 Qs
+
+		Altough they are lying, V1 and V2 are independent.
+		some Qs require 20sec, some Qs require 3min
+
+	III. Quant
+		130-170
+
+		More difficult from paper based.
+		Math, Statistics
+		A. 20 Qs, 35 mins
+		B. same as B.
+
+
+You can cancell your test, you can see your Verbal+Quant mark at the end of exam and you can choose the receiving universities.
+
+
+After class: 1 month exercise, then exam

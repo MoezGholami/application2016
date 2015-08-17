@@ -1,0 +1,16 @@
+every paragraph must have 3 layers: claim + explain + additional support (if necessary)
+
+position:
+	I generally agree with this for these reasons: ...
+	before conclusion, add a paragraph for preventing over-generalizing, especially for one sided positions. "however..."
+		do not forget generally in previous paragraphs.
+
+grammar:
+	noun clause:
+		* every 'wh' can be clause marker
+			use correct marker, do not misplace with questions.
+		* other markers: that, if, wether
+	can be placed as the subject, but it's cleaner to change it as a sentence:
+		eg:
+			That she is lazy is obvious.
+			It's obvious that she is lazy.
