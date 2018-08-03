@@ -10,10 +10,6 @@ Ali MoezGholami's application 2016 documents
   - تحقیقات در مورد دانشگاه ها و فیلد ها
   - تحقیقات در مورد بورسیه ها
 
-### تماس با من
-
-[Ali MoezGholami]
-
 ### Todo's
 
 هنوز ابتدای کارم. کلی کار دیگه مونده.
